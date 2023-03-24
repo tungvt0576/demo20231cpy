@@ -1,7 +1,8 @@
 import bcrypt from "bcrypt";
 import emailValidator from "email-validator";
 import jwt from "jsonwebtoken";
-import db from "../models/index.js";
+import db from "../models";
+
 
 const authController = {
     generateAccessToken(user) {
