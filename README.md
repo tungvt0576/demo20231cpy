@@ -1,0 +1,4 @@
+- Step 1: git clone 
+- Step 2: move to demo20231 (cd demo20231) and run npm install
+- Step 3: create database named "tuỳ mày" and config database like src/config/config.json (development)
+- Step 4: run "npm start" and enjoy the api
